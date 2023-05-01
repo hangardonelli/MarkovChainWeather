@@ -40,7 +40,7 @@ In other words, we have the following chain:
 
 ![Markov Chain Example](https://i.ibb.co/9rNNXGQ/3estados.png)
 
-Since in the example we are giving a weekly forecast, the string is equivalent to the following sequence
+Since in the example we are giving a weekly forecast, the chain is equivalent to the following sequence
 
 ![Markov Chain Example](https://latex2png.com/pngs/9238be29f0e8e5842054e2e793e677ec.png)
 
